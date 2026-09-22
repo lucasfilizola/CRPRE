@@ -1,4 +1,4 @@
-# CRM Prefeituras - guia de instalacao no Railway
+# CRMMMMMM - guia de instalacao no Railway
 
 Esta versao usa PostgreSQL de verdade (nao SQLite), hospedado em um servidor
 que nao dorme e nao expira. Os dados ficam salvos permanentemente, entre
